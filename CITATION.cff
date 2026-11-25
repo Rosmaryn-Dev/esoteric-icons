@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use these icons, please cite them as below."
+title: "Esoteric icons: 64 SVG icons for astrology, alchemy and the Yijing"
+type: software
+date-released: "2026-11-24"
+authors:
+  - name: "Rosmaryn"
+    website: "https://rosmaryn.app/"
+    orcid: "https://orcid.org/0009-0007-6170-4123"
+license: CC-BY-4.0
+repository-code: "https://github.com/Rosmaryn-Dev/esoteric-icons"
+keywords:
+  - icons
+  - svg
+  - astrology
+  - alchemy
+  - yijing
